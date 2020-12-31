@@ -1,0 +1,25 @@
+{
+  "name": "provider-consumer-implementation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/duysmile/provider-consumer-implementation.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/duysmile/provider-consumer-implementation/issues"
+  },
+  "homepage": "https://github.com/duysmile/provider-consumer-implementation#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "bull": "^3.20.0",
+    "express": "^4.17.1",
+    "redis": "^3.0.2"
+  }
+}
